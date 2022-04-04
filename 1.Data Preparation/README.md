@@ -13,3 +13,28 @@
 4. Systhetic data 
 
 ## Too much data
+
+
+
+## Dealing with missing values
+
+
+## Dealing with outliers
+
+* identifying outliers
+   * Distance from mean
+   * distance form fitted line 
+
+points that lie more than 3 standard deviations from the mean are ofen considers as outliers
+* coping with outliers
+   * drop
+   * cap/floor
+   * set to mean
+
+## Oversampling and Undersampling
+
+## Overfitting and underfitting
+
+
+
+
