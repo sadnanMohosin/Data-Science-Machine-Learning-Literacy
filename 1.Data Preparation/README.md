@@ -60,7 +60,7 @@ features (e.g. zip codes)
 
 
 ## Dealing with outliers
-
+In statistics, an outlier is a data point that differs significantly from other observations. An outlier may be due to variability in the measurement or it may indicate experimental error; the latter are sometimes excluded from the data set. An outlier can cause serious problems in statistical analyses.
 * identifying outliers
    * Distance from mean
    * distance form fitted line 
